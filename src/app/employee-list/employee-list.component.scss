@@ -1,0 +1,24 @@
+.content-box {
+    box-shadow: none;
+    padding-left: 38%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0;   
+    display: flex;         
+}
+
+.tableStyle {    
+    font-size: 16px;
+    color: #655f5f; 
+    th {
+        background: #EDEDED;
+        -webkit-print-color-adjust: exact;
+        padding: 5px;
+        border-left: none;
+        border-right: none;
+    }
+    td {
+        border: none;
+        padding: 5px; 
+    }
+}
